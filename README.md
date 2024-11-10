@@ -54,7 +54,7 @@ In this ticket, we are assigning the Tier 1 Support team, updating the SLA to Se
 
  <p> <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Resolving Tickets</h1> </p> 
 
-<p> Christina is logged in and views her queue of tickets. They range in order of priorty. She sees the ticket marked Emergency and works on that one first</p> <br>
+<p> Christina is logged in and views her queue of tickets. They range in order of priority. She sees the ticket marked Emergency and works on that one first</p> <br>
 <p>
 <img width="740" alt="image" src="https://github.com/user-attachments/assets/2fe70aa8-a59c-4334-b153-53dd57df85f0"> <br> 
 </p>
