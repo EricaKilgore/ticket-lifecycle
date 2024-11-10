@@ -50,7 +50,8 @@ In this ticket, we are assigning the Tier 1 Support team, updating the SLA to Se
 </p>
 <p>
 
-    <hr>
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
+
  <p> <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Resolving Tickets</h1> </p> 
 
 <p> Christina is logged in and views her queue of tickets. They range in order of priorty. She sees the ticket marked Emergency and works on that one first</p> <br>
