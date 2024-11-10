@@ -50,7 +50,7 @@ This is a view of what an Admin will see when assigning tickets to the appropria
 <p>
 
     <hr>
-    <p> <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Resolving Tickets</h1> </p> 
+ <p> <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Resolving Tickets</h1> </p> 
 
 <p> Christina is logged in and views her queue of tickets. They range in order of priorty. She sees the ticket marked Emergency and works on that one first</p> <br>
 <p>
