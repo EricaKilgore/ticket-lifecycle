@@ -3,7 +3,6 @@
 </p>
 
 <h1>osTicket - LifeCycle Examples Setup</h1>
-<hr>
 
 </p>
 
@@ -34,8 +33,10 @@ This is a view of what an Admin will see when assigning tickets to the appropria
     <img width="722" alt="image" src="https://github.com/user-attachments/assets/06d2ac32-15bf-439b-9899-3cf1e82231db">
 </p>
 <p>
+In this ticket, we are assigning the Tier 1 Support team, updating the SLA to Sev-1, and adjusting the priority to Emergency.
+    
+</p>
 
-    In this ticket, we are assigning the Tier 1 Support team, updating the SLA to Sev-1, and adjusting the priority to Emergency.</p>
 <br />
 <p>
     <img width="740" alt="image" src="https://github.com/user-attachments/assets/ce51cde2-0e02-4748-a146-d95a7cb47943"> <br>
@@ -63,6 +64,7 @@ Christina works on the ticket and successfully resolves the issue. She notifies 
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/b89b398f-5c23-4868-a97c-20f6d1272c5b">
 
 <hr>
+
 <p> <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Reassigning Tickets</h1> </p>
 
 <p>
