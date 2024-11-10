@@ -40,9 +40,12 @@ This is a view of what an Admin will see when assigning tickets to the appropria
 <p>
     <img width="740" alt="image" src="https://github.com/user-attachments/assets/ce51cde2-0e02-4748-a146-d95a7cb47943"> <br>
 
-    <p> In the red box, it shows all activity made on this ticket.</p>
+<p> In the red box below, it will show all activity made on this ticket. </p>
 
-    <img width="720" alt="image" src="https://github.com/user-attachments/assets/95fb6364-84ff-45ac-9a1a-6e915cdf12f9"> <br>
+
+<img width="536" alt="image" src="https://github.com/user-attachments/assets/24e6d67d-1d87-4779-83f9-76f962ae6954">
+
+<br>
 </p>
 <p>
 
