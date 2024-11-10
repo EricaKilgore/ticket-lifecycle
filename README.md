@@ -63,7 +63,9 @@ Christina works on the ticket and successfully resolves the issue. She notifies 
 </p>
 <img width="644" alt="image" src="https://github.com/user-attachments/assets/b89b398f-5c23-4868-a97c-20f6d1272c5b">
 
-<hr>
+<hr style="border: 1px solid #ccc; width: 80%; margin: 20px auto;">
+
+
 
 <p> <h1 style="text-align: center; font-weight: bold; font-size: 16pt;">Reassigning Tickets</h1> </p>
 
